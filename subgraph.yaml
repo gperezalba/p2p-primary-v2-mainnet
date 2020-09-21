@@ -6,7 +6,7 @@ dataSources:
     name: PIBP2P
     network: mainnet
     source:
-      address: "0xa8ef60a42b77795FE14a5dC539e95699ad561463"
+      address: "0x00eD81699f43B1706B48A45D77a6f27Ad9803377"
       startBlock: 2900000
       abi: PIBP2P
     mapping:
